@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://139.199.171.136:3306/mybusiness?characterEncoding=utf8&useSSL=false
+    username: solider76
+    password: com-solider-oo-solider76
+
+version: prod
